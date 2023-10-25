@@ -32,31 +32,37 @@ Business Insights:
     Getting Started
 To get started with the project, follow these steps:
 
-Clone the Repository:
+## Clone the Repository:
 
 git clone <repository-url>
 cd big-data-analysis-ibm-cloud-databases
-Setup IBM Cloud Databases:
+
+## Setup IBM Cloud Databases:
 
 Refer to the documentation provided by IBM to set up the required databases.
 Configure security settings and ensure compliance with data protection regulations.
-Explore Datasets:
+
+## Explore Datasets:
 
 Identify and acquire relevant datasets for analysis.
 Store datasets securely in the configured IBM Cloud Databases.
-Run Data Exploration Scripts:
+
+##Run Data Exploration Scripts:
 
 Utilize the provided data exploration scripts to gain insights into the datasets.
 Modify the scripts as necessary for specific analysis requirements.
-Apply Analysis Techniques:
+
+## Apply Analysis Techniques:
 
 Implement statistical analysis and machine learning algorithms using appropriate tools and libraries.
 Document the analysis process and results for future reference.
-Create Visualizations:
+
+## Create Visualizations:
 
 Use visualization libraries to create informative and visually appealing charts and graphs.
 Ensure the visualizations are understandable to stakeholders with varying levels of technical expertise.
-Interpretation and Recommendations:
+
+## Interpretation and Recommendations:
 
 Interpret the analysis findings in the context of business objectives.
 Formulate actionable recommendations based on the derived insights.
